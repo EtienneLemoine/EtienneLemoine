@@ -1,6 +1,6 @@
 <h2 align="center">
   
- 🖥📺Hello World😎
+ 🖥Hello World😎
   
 </h2>
 <h2 align="center">
