@@ -36,7 +36,7 @@ const frontEnd = ["React", "Redux", "CSS", "HTML", "JavaScript", "Java"];
 const backEnd = ["NodeJs", "Express"];
 const databases = ["PostgreSQL", "Sequelize", "MySQL"];
 
-Akshat.skills.push(...frontEnd, ...backEnd, ...databases);
+Etienne.skills.push(...frontEnd, ...backEnd, ...databases);
 ```
 
 <hr/>
