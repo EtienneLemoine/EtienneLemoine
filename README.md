@@ -1,16 +1,44 @@
-## Hello 👋
+<h2 align="center">
+  <img alt="Hello" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/Hi.gif" width="29px"> 
+  Hello,World!
+  <img alt="Earth" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/earth.gif" width="24px"/>
+</h2>
+<h2 align="center">
+    I'm
+    <img alt="popup_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp" width="50">
+    Etienne Lemoine
+    <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="50"> 
+</h2>
 
-My name is Etienne, I'm from Argentina and I'm an FullStack Developer.
+<p align="left">
+  <samp>
+    <br><br>
+    Full stack developer
+    <br><br>
+    Focusing on building beautiful
+    <br><br> 
+    & native applications...
+  </samp>
+</p>
 
+<hr/>
 
-## Skills
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/astro_cat.webp" width="50">
+  Me as a code... 
+  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50">
+</p>
 
-* I'm using JavaScript, ReactJs, CSS, HTML, Redux for the frontend.
-* I'm using NodeJs, Express, Sequelize, PostgreSQL for the backend.
-* Critical thinking, decision-making and problem solving skills
-* Some Java coding
-* Special skills and experience in fast growing startups.
+```javascript
+import { Etienne } from "Awesome";
 
-## Contact
+const frontEnd = ["React", "Redux", "CSS", "HTML", "JavaScript", "Java"];
+const backEnd = ["NodeJs", "Express"];
+const databases = ["PostgreSQL", "Sequelize", "MySQL"];
+
+Akshat.skills.push(...frontEnd, ...backEnd, ...databases);
+```
+
+<hr/>
 
 Find all of my socials and resume in my [website](https://web-ten-iota.vercel.app)
